@@ -1,0 +1,39 @@
+guia,gpc_source,date_GPC,estudio,economics,date_economics,dist,quality_tool,quality_study,FI,Funding,Citas,Journal,open_access,design
+gcp_568,RedETS,2016,EE_1,EE_1,2012,4,CHEERS,1.10,1.169,Privada,220,Nutricion Hospitalaria,No,observacional
+gcp_559,RedETS,2016,EE_10,EE_10,2011,5,CHEERS,10.00,2.039,No,7,Expert Rev Pharmacoecon Outcomes Res,No,modelo
+gcp_559,RedETS,2016,EE_11,EE_11,2010,6,CHEERS,4.52,2.439,No,4,Disability and Rehabilitation,No,observacional
+gcp_559,RedETS,2016,EE_12,EE_12,2008,8,CHEERS,9.47,7.186,Privada,55,Nephrol Dial Transplant,No,modelo
+gcp_561,No-RedETS,2017,EE_13,EE_13,2007,10,CHEERS,2.45,9.698,No,68,Movement Disorders,No,observacional
+gcp_561,No-RedETS,2017,EE_14,EE_14,2002,15,CHEERS,1.05,93.333,Mixta,68,British Medical Journal,No,RCT
+gcp_561,No-RedETS,2017,EE_15,EE_15,2016,1,AMSTAR 2,2.00,2.21,Académica,21,World Neurosurgery,Yes,RS
+gpc_428,RedETS,2008,EE_16,EE_16,2004,4,CHEERS,2.01,3.453,No,149,Surgical Endoscopy,No,RCT
+gpc_490,RedETS,2008,EE_17,EE_17,2003,5,CHEERS,8.22,NA,Académica,NA,Evid Rep Technol Assess (Summ),No,modelo
+gpc_555,RedETS,2016,EE_19,EE_19,2007,9,AMSTAR 2,10.00,4.106,Académica,218,Health Technology Assessment,No,RS
+gpc_555,RedETS,2016,EE_20,EE_20,2008,8,CHEERS,7.35,4.456,Académica,15,Eye,No,modelo
+gpc_555,RedETS,2016,EE_21,EE_21,2008,8,CHEERS,5.41,2.705,Privada,10,Current Medical Research and Opinion,No,modelo
+gpc_555,RedETS,2016,EE_22,EE_22,2012,4,CHEERS,8.83,4.399,Académica,56,Archives of Ophthalmology,No,modelo
+gpc_555,RedETS,2016,EE_23,EE_23,2010,6,CHEERS,9.63,2.908,Académica,13,BMC health services research,Yes,RCT
+gpc_563,RedETS,2017,EE_25,EE_25,2011,6,CHEERS,9.13,2.446,No,45,Familial Cancer,No,modelo
+gpc_565,RedETS,2017,EE_26,EE_26,2014,3,CHEERS,10.00,2.086,Privada,11,BMC Ophthalmology,Yes,modelo
+gpc_566,RedETS,2016,EE_27,EE_27,2010,6,AMSTAR 2,2.00,0.142,Privada,10,Pharmacoeconomics - Spanish Research Articles,No,RS
+gpc_568,RedETS,2017,EE_28,EE_28,2014,3,AMSTAR 2,4.00,13.787,Mixta,3,Annals of Surgery,No,RS
+gpc_569,No-RedETS,2021,EE_29,EE_29,2000,21,AMSTAR 2,10.00,4.106,Académica,35,Health Technology Assessment,No,RS
+gcp_559,No-RedETS,2016,EE_3,EE_3,2014,2,AMSTAR 2,2.00,11.072,No,120,Am J Kidney Dis,No,RS
+gpc_569,No-RedETS,2021,EE_30,EE_30,1999,22,CHEERS,4.75,2.727,No,47,British Dental Journal,No,modelo
+gpc_572,No-RedETS,2017,EE_31,EE_31,2015,2,CHEERS,4.98,4.531,No,71,European Journal of Radiology,Yes,RCT
+gpc_572,No-RedETS,2017,EE_32,EE_32,2009,8,CHEERS,2.15,3.084,Académica,33,Nefrologia,Yes,observacional
+gpc_572,No-RedETS,2017,EE_33,EE_33,2015,2,CHEERS,9.01,11.072,Académica,32,Am J Kidney Dis,No,modelo
+gpc_572,No-RedETS,2017,EE_34,EE_34,1995,22,CHEERS,2.23,3.084,No,3,Nefrologia,Yes,observacional
+gpc_572,No-RedETS,2017,EE_35,EE_35,2014,3,CHEERS,4.82,2.585,No,20,Catheter Cardiovasc Interv,No,observacional
+gpc_572,No-RedETS,2017,EE_36,EE_36,2010,7,CHEERS,1.91,11.072,No,53,American Journal Of Kidney Diseases,No,observacional
+gpc_575,RedETS,2018,EE_38,EE_38,2015,3,CHEERS,9.29,4.106,Académica,26,Health Technology Assessment,No,RCT
+gpc_575,RedETS,2018,EE_39,EE_39,2014,4,CHEERS,9.46,8.265,Académica,16,Journal Of Child Psychology And Psychiatry,No,RCT
+gcp_559,RedETS,2016,EE_4,EE_4,2010,6,CHEERS,9.59,3.637,Académica,32,Clinical Therapeutics,No,modelo
+gpc_575,RedETS,2018,EE_41,EE_41,2008,10,CHEERS,5.45,5.101,Privada,35,Value In Health,No,observacional
+gpc_575,RedETS,2018,EE_43,EE_43,2006,12,AMSTAR 2,2.00,5.846,No,76,Nature Clinical Practice Rheumatology,No,RS
+gpc_578,No-RedETS,2018,EE_44,EE_44,2013,5,CHEERS,6.19,6.302,No,49,British Journal Of General Practice,No,observacional
+gpc_593,No-RedETS,2017,EE_46,EE_46,2013,4,CHEERS,8.30,93.333,Académica,146,British Medical Journal,No,RCT
+gpc_604,RedETS,2020,EE_48,EE_48,2006,14,CHEERS,3.74,4.534,Académica,77,European Journal Of Cardio-Thoracic Surgery,No,observacional
+gcp_559,RedETS,2016,EE_5,EE_5,2012,4,CHEERS,10.00,4.203,Privada,11,Swiss Med Wkly,No,modelo
+gcp_559,RedETS,2016,EE_6,EE_6,2010,6,CHEERS,10.00,5.101,Académica,44,Value In Health,No,modelo
+gcp_559,RedETS,2016,EE_7,EE_7,2012,4,CHEERS,9.83,2.617,Académica,40,Clin Exp Nephrol,No,modelo
